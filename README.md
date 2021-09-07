@@ -1,4 +1,4 @@
-# my_first_app
+# Challenge 01 - Application Structure
 
 A new Flutter project.
 
