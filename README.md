@@ -1,6 +1,9 @@
-# my_first_app
+# Challenge 01 - Application Structure
 
-A new Flutter project.
+In this challenge you will adjust the way the application is structured in order to improve the understanding of the code.
+
+- [Link of challenge](https://www.notion.so/Desafio-01-Estrutura-da-aplica-o-4b314fc29a5b453783ca7a911ef45e13)
+
 
 ## Getting Started
 
